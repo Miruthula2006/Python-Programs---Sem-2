@@ -33,7 +33,3 @@ class Teamleader(Manager,Developer):
 
 e=Teamleader("Anu",25,143,"IT",5)
 e.displayTeamleaderInfo()
-
-
-
-class hardware
